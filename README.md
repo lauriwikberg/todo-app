@@ -1,7 +1,7 @@
 **Todo Appliacation**
 
 - An application where you can list your todos and its tasks.
-- Local Ollama LLM integration for a quick short tip on how to do a particular task efficiently.
+- Local Ollama LLM AI integration for a quick short tip on how to do a particular task efficiently.
 
 *Logic*
 
